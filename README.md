@@ -1,4 +1,4 @@
-# JobMiner Web App
+# JobSpecMiner Web App
 
 A Streamlit web application that extracts structured information from job descriptions using Google's Gemini AI.
 

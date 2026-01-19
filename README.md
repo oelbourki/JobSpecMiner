@@ -10,6 +10,14 @@ A Streamlit web application that extracts structured information from job descri
 - 📥 **Download Options**: Download results as TXT or JSON files
 - 🔒 **Secure**: API keys stored locally in session, never sent to servers
 
+## Demo
+
+![JobMiner Application Interface](screenshots/msedge_UpBT78Kn2G.png)
+*Application interface with input and results view*
+
+![JobMiner Results](screenshots/msedge_mryBdfXS5c.png)
+*Structured extraction results with download options*
+
 ## Getting Started
 
 ### Prerequisites
